@@ -1,4 +1,4 @@
-# Myapp - Angular2 dynamic form control
+# Angular2 dynamic form control
 - Ref [Nested Model Driven Form] (https://scotch.io/tutorials/how-to-build-nested-model-driven-forms-in-angular-2)
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.19-3.
